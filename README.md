@@ -10,12 +10,11 @@
 ## 安装
 
 ```bash
-git clone https://github.com/Fionatt-creator/xiaohongshu-explain-video.git \
+git clone https://github.com/Fionatt-creator/english-lesson-video.git \
   ~/.trae-cn/skills/english-lesson-video
 ```
 
 目录名必须是 `english-lesson-video`，与 `SKILL.md` 里的 `name` 一致。
-（仓库地址暂时还叫 `xiaohongshu-explain-video`，改名不影响使用。）
 
 ## 配置
 
